@@ -1,0 +1,6 @@
+Line 50: Class MSComctlLib.Toolbar of control Toolbar1 was not a loaded control class.
+Line 96: Class MSComctlLib.ImageList of control ImageList1 was not a loaded control class.
+Line 122: Class MSComctlLib.TreeView of control QCTree was not a loaded control class.
+Line 159: Class MSComctlLib.ImageList of control ImageList2 was not a loaded control class.
+Line 198: Class MSComctlLib.StatusBar of control stsBar was not a loaded control class.
+Line 224: Class MSComctlLib.ImageList of control imgList_Sts was not a loaded control class.

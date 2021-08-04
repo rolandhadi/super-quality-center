@@ -1,0 +1,5 @@
+Line 60: Class MSComctlLib.Toolbar of control Toolbar1 was not a loaded control class.
+Line 116: Class MSComctlLib.StatusBar of control StatusBar1 was not a loaded control class.
+Line 132: Class MSComctlLib.ImageList of control ImageList2 was not a loaded control class.
+Line 167: Class MSComctlLib.ImageList of control imgList_Sts was not a loaded control class.
+Line 198: Class MSComctlLib.StatusBar of control stsBar was not a loaded control class.
