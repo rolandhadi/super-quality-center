@@ -2,6 +2,14 @@
 A third-party tool integrated with HP Quality Center that helps the test automation team to manage SAPTAO scripts and test test execution.
 The application was built and deployed around 2009 and was developed using Visual Basic 6.0
 
+Core Functionalities
+- Upload/Update Requirements to HPQC
+- SAPTAO management module
+- Upload/Update Business Components to HPQC
+- Upload/Update Test Plan to HPQC
+- Mass Update Test Data to Test Lab ibn HPQC
+- Generate real time Execution Reports from HPQC
+
 ![image](https://user-images.githubusercontent.com/65001113/128193305-d18a6d3e-70ff-4175-b2b3-67b2c9bf202f.png)
 
 ![image](https://user-images.githubusercontent.com/65001113/128193593-24fdffad-988b-4686-af0c-5783176e8e55.png)
