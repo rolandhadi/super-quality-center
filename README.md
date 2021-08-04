@@ -1,5 +1,6 @@
 # super-quality-center
-A third-party tool integrated with HP Quality Center that helps the test automation team to manage SAPTAO scripts and test test execution 
+A third-party tool integrated with HP Quality Center that helps the test automation team to manage SAPTAO scripts and test test execution.
+The application was built and deployed around 2009 and was developed using Visual Basic 6.0
 
 ![image](https://user-images.githubusercontent.com/65001113/128193305-d18a6d3e-70ff-4175-b2b3-67b2c9bf202f.png)
 
